@@ -1,3 +1,1 @@
-# HyperSeg
-
-HyperSeg: Learning with Hyperbolic Hierarchical Semantic Alignment for Text-driven Medical Image Segmentation
+## HSANet: Hyperbolic Semantic Alignment Network for Text-driven Medical Image Segmentation
